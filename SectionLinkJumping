@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hyperlink</title>
+</head>
+<body>
+<h2>Table of Contents</h2>
+<ul>
+    <li><a href="#section1">Section 1</a></li>
+    <li><a href="#section2">Section 2</a></li>
+    <li><a href="#section3">Section 3</a></li>
+</ul>
+<h2 id="section1">Section 1</h2>
+<p>
+    A Doctor of Pharmacy is a professional doctorate in pharmacy.
+    In some countries, it is a first ...D is a 6-year course
+    offered in Ghana from the academic year 2012/2013,
+    initially by the ... and University of Development Alternative
+    (UODA) are the top rated private universities. ... D.
+</p>
+<h2 id="section2">Section 2</h2>
+<p>
+    A Doctor of Pharmacy is a professional doctorate in pharmacy.
+    In some countries, it is a first ...D is a 6-year course
+    offered in Ghana from the academic year 2012/2013,
+    initially by the ... and University of Development Alternative
+    (UODA) are the top rated private universities. ... D.
+</p>
+<h2 id="section3">Section 3</h2>
+<p>
+    A Doctor of Pharmacy is a professional doctorate in pharmacy.
+    In some countries, it is a first ...D is a 6-year course
+    offered in Ghana from the academic year 2012/2013,
+    initially by the ... and University of Development Alternative
+    (UODA) are the top rated private universities. ... D.
+</p>
+
+</body>
+</html>
